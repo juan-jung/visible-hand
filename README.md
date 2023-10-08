@@ -37,7 +37,7 @@
 - 뉴스에 작성한 피드 확인 기능
 - 스크랩한 뉴스 확인 기능
 - 경제 용어 퀴즈 문제 풀이 중 틀린 문제만 재풀이 기능 제공  
-![Visible_Hand](./readmeFiles/MyPage.gif){: width="700px"}  
+![Visible_Hand](./readmeFiles/MyPage.gif)
 
 <br>
 
@@ -88,12 +88,12 @@
 <br>
 
 ## :bulb: 아키텍처
-![Visible_Hand](./readmeFiles/Architecture.png){: width="700px"}  
+![Visible_Hand](./readmeFiles/Architecture.png)
 
 <br>
 
 ## :bulb: ERD
-![Visible_Hand](./readmeFiles/ERD.png){: width="700px"}  
+![Visible_Hand](./readmeFiles/ERD.png)
 
 <br>
 
